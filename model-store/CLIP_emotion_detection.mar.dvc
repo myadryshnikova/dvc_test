@@ -1,0 +1,4 @@
+outs:
+- md5: 6906326c1a7811d4af31bee78cad51c3
+  size: 392740574
+  path: CLIP_emotion_detection.mar
