@@ -1,0 +1,4 @@
+base:
+  random_seed: 1
+  data_dir: data
+  models_dir: models
